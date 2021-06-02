@@ -33,7 +33,7 @@ h1 {
 #titulo-home{
     font-size: 30px;
     font-family: cursive;
-    color: rebeccapurple;
+    color: rgb(51, 153, 148);
 }
 
 .parrafos-home{
@@ -44,6 +44,7 @@ h1 {
 
 div > a{
     padding: 10px;
+    text-decoration: none;
 }
 
 
