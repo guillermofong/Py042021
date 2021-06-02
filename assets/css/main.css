@@ -1,5 +1,5 @@
 body {
-    background-color: blanchedalmond;
+    background-color: darkblue;
 }
 
 nav {
@@ -45,6 +45,14 @@ h1 {
 div > a{
     padding: 10px;
     text-decoration: none;
+    color: black;
 }
 
+#cover {
+    width:70%;
+    height: auto;
+    display: block;   
+    margin-left: auto;
+    margin-right: auto;
+}
 
